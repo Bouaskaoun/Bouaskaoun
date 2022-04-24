@@ -5,7 +5,7 @@
 
 - 🤔 I’m currently open **for: An Intern or a new job opportunity**
 
-- 🌱 I’m currently learning **Flutter and Data Science**
+- 🌱 I’m currently learning **Data Science and Flutter**
 
 - 💬 Ask me about **Angular, Spring boot, Machine learning**
 
