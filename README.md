@@ -93,7 +93,7 @@ I-am-bouaskaoun@github
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | ![Bouaskaoun's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=bouaskaoun&theme=react-dark&hide_border=true&area=true) |
 | ![Bouaskaoun's github stats](https://github-readme-stats.vercel.app/api?username=bouaskaoun&show_icons=true&theme=algolia)              | 
-| ![Bouaskaoun's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bouaskaoun&theme=algolia)                    | 
+| ![Bouaskaoun's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bouaskaoun&theme=algolia)                    |
     
 
 |                                                                                                      Bouaskaoun's Stars                                                                                                       |                                                           Top Languages                                                           |      
