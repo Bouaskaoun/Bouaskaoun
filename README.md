@@ -1,6 +1,8 @@
 <h1 align="center">
 Hi, I'm Bouaskaoun Mohammed!
-	<a href="https://github.com/Bouaskaoun"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></a>
+	<a href="https://github.com/Bouaskaoun">
+		<img href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="bouaskaoun" width="30">
+	</a>
 </h1>
 <p align="right">
 	<a href="https://github.com/Bouaskaoun">
@@ -106,7 +108,7 @@ I-am-bouaskaoun@github
 
 |                                                                                                      Bouaskaoun's Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| <a href="https://github.com/Bouaskaoun">![Github Stars](https://github-readme-stats.vercel.app/api?username=bouaskaoun&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bouaskaoun&langs_count=8&theme=algolia&layout=compact)</a> |
+| <a href="https://github.com/Bouaskaoun">![Github Stars](https://github-readme-stats.vercel.app/api?username=bouaskaoun&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia)</a> | <a href="https://github.com/Bouaskaoun">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bouaskaoun&langs_count=8&theme=algolia&layout=compact)</a> |
 
 
 
