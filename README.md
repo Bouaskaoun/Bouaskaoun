@@ -4,9 +4,15 @@ Hi, I'm Bouaskaoun Mohammed!
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
-<p align="right">
+<p align="center">
 	<a href="https://github.com/Bouaskaoun">
 		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
+	</a>
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://badges.pufler.dev/repos/bouaskaoun" alt="bouaskaoun" />
+	</a>
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="bouaskaoun" />
 	</a>
 </p>
 <br/>
@@ -93,23 +99,35 @@ I-am-bouaskaoun@github
 </p>
 
 
-## GitHub Stats
+## <a href="https://github.com/Bouaskaoun"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"></a> GitHub Stats
 
-
-|                                                                     Bouaskaoun's Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  <a href="https://github.com/Bouaskaoun">![Bouaskaoun's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=bouaskaoun&theme=react-dark&hide_border=true&area=true)</a>|
-| <a href="https://github.com/Bouaskaoun">![Bouaskaoun's github stats](https://github-readme-stats.vercel.app/api?username=bouaskaoun&show_icons=true&theme=algolia)</a>              | 
-| <a href="https://github.com/Bouaskaoun">![Bouaskaoun's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bouaskaoun&theme=algolia)</a>                    |
-    
-
-
-|                                                                                                      Bouaskaoun's Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| <a href="https://github.com/Bouaskaoun">![Github Stars](https://github-readme-stats.vercel.app/api?username=bouaskaoun&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia)</a> | <a href="https://github.com/Bouaskaoun">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bouaskaoun&langs_count=8&theme=algolia&layout=compact)</a> |
-
-
-
+<br/>
+<summary><b>⚡ Bouaskaoun's Stats</b></summary>
+<br/>
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://activity-graph.herokuapp.com/graph?username=bouaskaoun&theme=react-dark&hide_border=true&area=true" alt="bouaskaoun">
+	</a>
+</p>
+<br/>
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=bouaskaoun&theme=algolia" alt="bouaskaoun">
+	</a>
+</p>
+<br/>
+<summary><b>⚡ Bouaskaoun's Stars And Top Languages</b></summary>
+<br/>
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://github-readme-stats.vercel.app/api?username=bouaskaoun&show_icons=true&theme=algolia" alt="bouaskaoun">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouaskaoun&langs_count=8&theme=algolia&layout=compact" alt="bouaskaoun" height="195px">
+	</a>
+	<br/>
+<br/>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
+<br/>
 
 <table style="border: none">
   <tr>
@@ -137,4 +155,4 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> o
 
 ------
 Credits: [I-am-bouaskaoun](https://github.com/Bouaskaoun)
-Last Edited On: 24/04/2022
+Last Edited On: 29/05/2022
