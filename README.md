@@ -101,7 +101,7 @@ I-am-bouaskaoun@github
 -->
 
 
-## <a href="https://github.com/Bouaskaoun"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"></a> GitHub Stats
+## <div style="width:30px"><a href="https://github.com/Bouaskaoun"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" style="width:30px"></a> GitHub Stats</div>
 
 <br/>
 <summary><b>⚡ Bouaskaoun's Stats</b></summary>
