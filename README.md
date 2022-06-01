@@ -37,7 +37,7 @@ I-am-bouaskaoun@github
 ```
 <hr>
 
-## <a href="https://github.com/Bouaskaoun"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"></a> Connect with me
+## <a href="https://github.com/Bouaskaoun"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></a> Connect with me
 <p align="center">
 	<a href="mailto:bouaskaoun.mohammed@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/Bouaskaoun"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -101,7 +101,7 @@ I-am-bouaskaoun@github
 -->
 
 
-## <div style="width:30px"><a href="https://github.com/Bouaskaoun"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" style="width:30px"></a> GitHub Stats</div>
+## <a href="https://github.com/Bouaskaoun"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></a> GitHub Stats
 
 <br/>
 <summary><b>⚡ Bouaskaoun's Stats</b></summary>
