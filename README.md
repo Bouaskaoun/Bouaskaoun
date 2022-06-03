@@ -24,7 +24,7 @@ Hi, I'm Bouaskaoun Mohammed!
 
 <hr>
 
-```
+<pre>
 I-am-bouaskaoun@github
 -------------------------
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
@@ -34,7 +34,8 @@ I-am-bouaskaoun@github
 🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: Python, JavaScript
 🚩 Interested in Full Stack Machine Learning Application development
-```
+🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://github.com/Bouaskaoun">MY RESUME.</a>
+</pre>
 <hr>
 
 ## <a href="https://github.com/Bouaskaoun"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></a> Connect with me
