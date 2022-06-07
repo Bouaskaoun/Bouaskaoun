@@ -34,7 +34,7 @@ I-am-bouaskaoun@github
 🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: Python, JavaScript
 🚩 Interested in Full Stack Machine Learning Application development
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1CEBHTESOmW9Jlwf6jykDVUT9XD6LDArs/view?usp=sharing">MY RESUME.</a>
+🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/14exDjHQpziCN2oQSmlBElVWD75R5Gaq2/view?usp=sharing">MY RESUME.</a>
 </pre>
 <hr>
 
