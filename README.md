@@ -109,22 +109,25 @@ I-am-bouaskaoun@github
 <br/>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bouaskaoun&show_icons=true" alt="bouaskaoun">
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bouaskaoun" alt="bouaskaoun">
+	</a>
+	<br/>
+</p>
+<br/>
+<summary><b>⚡ Activity graph</b></summary>
+<br/>
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
 		<img src="https://activity-graph.herokuapp.com/graph?username=bouaskaoun&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="bouaskaoun">
 	</a>
 </p>
 <br/>
-<p align="center">
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://github-readme-streak-stats.herokuapp.com/?user=bouaskaoun" alt="bouaskaoun">
-	</a>
-</p>
-<br/>
-<summary><b>⚡ Bouaskaoun's Stars And Top Languages</b></summary>
+<summary><b>⚡ Top Languages</b></summary>
 <br/>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bouaskaoun&show_icons=true" alt="bouaskaoun">
-		<img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouaskaoun&langs_count=8&layout=compact" alt="bouaskaoun" height="195px">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouaskaoun&langs_count=8&layout=compact" alt="bouaskaoun">
 	</a>
 	<br/>
 <br/>
