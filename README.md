@@ -123,8 +123,8 @@ I-am-bouaskaoun@github
 <br/>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://github-readme-stats.vercel.app/api?username=bouaskaoun&show_icons=true" alt="bouaskaoun">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouaskaoun&langs_count=8&layout=compact" alt="bouaskaoun" height="195px">
+		<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bouaskaoun&show_icons=true" alt="bouaskaoun">
+		<img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouaskaoun&langs_count=8&layout=compact" alt="bouaskaoun" height="195px">
 	</a>
 	<br/>
 <br/>
