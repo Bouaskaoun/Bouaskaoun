@@ -159,6 +159,3 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> o
   </td>
   </tr>
 </table>
-
-| <a href="https://github.com/Bouaskaoun"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bouaskaoun&show_icons=true&hide_border=true" alt="bouaskaoun" /></a> | <a href="https://github.com/Bouaskaoun"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouaskaoun&langs_count=8&layout=compact&hide_border=true" alt="bouaskaoun" /></a> |
-| ------------- | ------------- |
