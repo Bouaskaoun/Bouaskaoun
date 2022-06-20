@@ -158,7 +158,3 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> o
   </td>
   </tr>
 </table>
-
-------
-Credits: [I-am-bouaskaoun](https://github.com/Bouaskaoun)
-Last Edited On: 29/05/2022
