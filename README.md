@@ -9,9 +9,6 @@ Hi, I'm Bouaskaoun Mohammed!
 		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
 	</a>
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://badges.pufler.dev/repos/bouaskaoun" alt="bouaskaoun" />
-	</a>
-	<a href="https://github.com/Bouaskaoun">
 		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="bouaskaoun" />
 	</a>
 </p>
