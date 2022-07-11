@@ -35,7 +35,7 @@ I-am-bouaskaoun@github
 </pre>
 <hr>
 
-## <a href="https://github.com/Bouaskaoun"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></a> Connect with me
+## <a href="https://github.com/Bouaskaoun"><img src="https://previews.123rf.com/images/dxinerz/dxinerz1801/dxinerz180101006/92772329-chain-link-gear-connect-icon-image-can-also-be-used-for-seo-digital-marketing-technology-suitable-fo.jpg" width="30"></a> Connect with me
 <p align="center">
 	<a href="mailto:bouaskaoun.mohammed@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/bouaskaoun/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -92,7 +92,7 @@ I-am-bouaskaoun@github
 -->
 
 
-## <a href="https://github.com/Bouaskaoun"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></a> GitHub Stats
+## <a href="https://github.com/Bouaskaoun"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
 
 <br/>
 <summary><b>⚡ Bouaskaoun's Stats</b></summary>
