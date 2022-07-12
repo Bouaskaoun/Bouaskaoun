@@ -22,8 +22,6 @@ Hi, I'm Bouaskaoun Mohammed!
 <hr>
 
 <pre>
-I-am-bouaskaoun@github
--------------------------
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
 📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
 📝 I have a strong interest in Data Science and Artificial Intelligence
