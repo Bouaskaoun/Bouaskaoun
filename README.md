@@ -103,6 +103,7 @@ Hi, I'm Bouaskaoun Mohammed!
 	<br/>
 </p>
 <br/>
+<!--
 <summary><b>⚡ Activity graph</b></summary>
 <br/>
 <p align="center">
@@ -111,6 +112,7 @@ Hi, I'm Bouaskaoun Mohammed!
 	</a>
 </p>
 <br/>
+-->
 <summary><b>⚡ Top Languages</b></summary>
 <br/>
 
