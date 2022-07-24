@@ -113,6 +113,7 @@ Hi, I'm Bouaskaoun Mohammed!
 </p>
 <br/>
 -->
+<!--
 <summary><b>⚡ Top Languages</b></summary>
 <br/>
 
@@ -125,7 +126,7 @@ Hi, I'm Bouaskaoun Mohammed!
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 <br/>
-
+-->
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
