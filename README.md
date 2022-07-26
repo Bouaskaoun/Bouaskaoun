@@ -12,15 +12,14 @@ Hi, I'm Bouaskaoun Mohammed!
 		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="bouaskaoun" />
 	</a>
 </p>
-<br/>
 <!--
+<br/>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 -->
-<hr>
 
 <pre>
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
@@ -32,7 +31,6 @@ Hi, I'm Bouaskaoun Mohammed!
 🚩 Interested in Full Stack Machine Learning Application development
 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
-<hr>
 
 ## 🤝 Connect with me
 <p align="center">
