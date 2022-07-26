@@ -94,9 +94,10 @@ Hi, I'm Bouaskaoun Mohammed!
 <!-- <a href="https://github.com/Bouaskaoun"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> -->
 ## GitHub Stats
 
-<br/>
+<!--
 <summary><b>⚡ Bouaskaoun's Stats</b></summary>
 <br/>
+-->
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
 	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bouaskaoun&show_icons=true" alt="bouaskaoun">
