@@ -32,7 +32,10 @@ Hi, I'm Bouaskaoun Mohammed!
 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
 
-## 🤝 Connect with me
+<br/>
+
+## Connect with me
+
 <p align="center">
 	<a href="mailto:bouaskaoun.mohammed@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/bouaskaoun/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -40,7 +43,7 @@ Hi, I'm Bouaskaoun Mohammed!
 	<!--<a href="https://www.kaggle.com/bouaskaounmohammed"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a>-->
 </p>
 
-## 🛠️ My Favorite Tools
+## My Favorite Tools
 
 ### 👨‍💻 Programming Languages
 
@@ -88,8 +91,8 @@ Hi, I'm Bouaskaoun Mohammed!
 </p>
 -->
 
-
-## <a href="https://github.com/Bouaskaoun"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
+<!-- <a href="https://github.com/Bouaskaoun"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> -->
+## GitHub Stats
 
 <br/>
 <summary><b>⚡ Bouaskaoun's Stats</b></summary>
