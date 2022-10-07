@@ -131,6 +131,7 @@ Hi, I'm Bouaskaoun Mohammed!
 </p>
 <br/>
 -->
+<!--
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
@@ -153,4 +154,4 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> o
 
   </td>
   </tr>
-</table>
+</table> -->
