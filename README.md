@@ -23,7 +23,7 @@ Hi, I'm Bouaskaoun Mohammed!
 
 <pre>
 💻 I am a Machine Learning Developer
-📚 I have a Master degree in Data Science and a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
+📚 I have a Master degree in Data Science from the University Cadi Ayyad at Morocco
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
 🌱 Learning about Computer Vision and Machine Learning stuff
