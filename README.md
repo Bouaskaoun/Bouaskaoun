@@ -102,7 +102,8 @@ Hi, I'm Bouaskaoun Mohammed!
 -->
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bouaskaoun&show_icons=true" alt="bouaskaoun">
+	<!--<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bouaskaoun&show_icons=true" alt="bouaskaoun">-->
+	<img width="49.5%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bouaskaoun&show_icons=true" alt="bouaskaoun">
 	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bouaskaoun" alt="bouaskaoun">
 	</a>
 	<br/>
