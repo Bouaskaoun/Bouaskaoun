@@ -61,8 +61,6 @@ Hi, I'm Bouaskaoun Mohammed!
     <a href="https://github.com/Bouaskaoun"><img alt="Selenium" src="https://img.shields.io/badge/Selenium%20-49b230.svg?logo=selenium&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="React" src="https://img.shields.io/badge/React%20-63cdea.svg?logo=react&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="Redux" src="https://img.shields.io/badge/Redux%20-764abc.svg?logo=redux&logoColor=white"></a>
-    <!--<a href="https://github.com/Bouaskaoun"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white"></a>-->
-    <!--<a href="https://github.com/Bouaskaoun"><img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&logoColor=white"></a>-->
     <a href="https://github.com/Bouaskaoun"><img alt="Express" src="https://img.shields.io/badge/ExpressJS%20-49b230.svg?logo=Express&logoColor=white"></a>	
     <a href="https://github.com/Bouaskaoun"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-8512fb.svg?logo=Bootstrap&logoColor=white"></a>
 </p>
@@ -72,6 +70,7 @@ Hi, I'm Bouaskaoun Mohammed!
 <p>
     <a href="https://github.com/Bouaskaoun"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?logo=github&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?logo=firebase&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-49b230.svg?logo=mongodb&logoColor=white"></a>
 </p>
 
 ### 💻 Software and Tools
