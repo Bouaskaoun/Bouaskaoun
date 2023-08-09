@@ -26,7 +26,7 @@ Hi, I'm Bouaskaoun Mohammed!
 📚 I have a Master degree in Data Science from the University Cadi Ayyad at Morocco
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
+🌱 Learning about NLP and Machine Learning stuff
 🌟 Main languages: Python, JavaScript
 🚩 Interested in Full Stack Machine Learning Application development
 🤔 I’m currently open for: <b>An Intern</b>.
