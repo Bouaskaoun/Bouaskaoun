@@ -29,7 +29,7 @@ Hi, I'm Bouaskaoun Mohammed!
 🌱 Learning about NLP and Machine Learning stuff
 🌟 Main languages: Python, JavaScript
 🚩 Interested in Full Stack Machine Learning Application development
-🤔 I’m currently open for: <b>An Intern</b>.
+🤔 I’m currently open for: a <b>Job</b> or an <b>Intern</b>.
 </pre>
 
 <br/>
